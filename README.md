@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NicoP2011
 - 🌱 I’m currently learning how to code
-- 📫 How to reach me: NicoP_2011@outlook.com
+- 📫 I'm sorry, but reaching out to me is currently not possible.
 
 <!---
-NicoP2011/NicoP2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ NicoP2011/NicoP2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on our GitHub profile. 
+ You can click the Preview link to take a look at our changes. 
 --->
